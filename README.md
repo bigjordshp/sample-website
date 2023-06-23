@@ -1,2 +1,1 @@
-# sample-website
-sample-website
+Basic website made with HTML, CSS, and Bootstrap.
